@@ -1,0 +1,8 @@
+.pad {
+    position: relative;
+    padding: 1rem 4vw;
+}
+
+li.menu-item {
+   margin:0 0 3px 0;
+}
